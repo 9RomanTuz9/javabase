@@ -35,6 +35,7 @@ public class num6 {
             System.out.println("Угадал!");
         } else {
             System.out.println("Не угадал! Было число: " + secret);
+            //
         }
     }
 }
